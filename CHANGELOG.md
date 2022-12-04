@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 2.5.0 (2022-12-04)
+
+### Features
+
+* support `useGtag` in config options ([upstream PR](https://github.com/nuxt-community/google-analytics-module/pull/138))
+
 ## [2.4.0](https://github.com/nuxt-community/analytics-module/compare/v2.3.0...v2.4.0) (2020-07-16)
 
 
