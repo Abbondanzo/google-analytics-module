@@ -1,3 +1,7 @@
+# This is a fork!
+
+This is a fork of [@nuxtjs/google-analytics](https://github.com/nuxt-community/google-analytics-module) that adds support for Google Analytics 4. There's an [open PR here](https://github.com/nuxt-community/google-analytics-module/pull/138) with these changes.
+
 [![@nuxtjs/google-analytics](https://google-analytics.nuxtjs.org/preview.png)](https://google-analytics.nuxtjs.org)
 
 # @nuxtjs/google-analytics
